@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  [Kapture 2025-09-19 at 20.15.12.gif.zip](https://github.com/user-attachments/files/22436947/Kapture.2025-09-19.at.20.15.12.gif.zip)
+GIF created with ...  [Kapture 2025-11-11 at 13.13.52.gif.zip](https://github.com/user-attachments/files/23484077/Kapture.2025-11-11.at.13.13.52.gif.zip)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
