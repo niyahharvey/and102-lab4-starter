@@ -11,7 +11,7 @@ Time spent: 3 hours spent in total
 The following **required** functionality is completed:
 
 - [x ]Campgrounds are displayed using the RecyclerView
-- [ ]Can navigate to the Campground Details screen
+- [ x]Can navigate to the Campground Details screen
 - [ x]Campground images are downloaded and displayed using Glide
 
 The following **optional** features are implemented:
